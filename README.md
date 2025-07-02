@@ -35,7 +35,8 @@ This project aims to answer key questions such as:
 - What insights can we extract using interactive dashboards?
 
 It is useful for business analysts, data scientists, students, and e-commerce professionals.
-dashboard interaction link <a href="https://github.com/swetha-venkatesan/prediction_in_e-commerce/blob/main/Executive%20Dashboard%20Revenue%20Trends%2C%20Top%20Markets%2C%20and%20Customer%20Segmentation.pbix">click here<\a>
+dashboard interaction link <a href="https://github.com/swetha-venkatesan/prediction_in_e-commerce/blob/main/Executive%20Dashboard%20Revenue%20Trends%2C%20Top%20Markets%2C%20and%20Customer%20Segmentation.pbix">click here<\a> 
+
 dataset <a href="https://github.com/swetha-venkatesan/prediction_in_e-commerce/blob/main/copy_of_online_sales_dataset.xlsx">click here<\a>
 
 ##📊 Project Insights 
