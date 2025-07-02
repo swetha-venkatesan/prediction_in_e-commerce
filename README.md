@@ -37,6 +37,7 @@ This project is aimed at:
 
 ## 🛠 Tools Used
 - Microsoft Excel
+  <a href="https://github.com/swetha-venkatesan/prediction_in_e-commerce/blob/main/copy_of_online_sales_dataset.xlsx">click here to get the excel file</a>
 - Microsoft Power BI
 - Python (optional, for predictive models)
 - Microsoft PowerPoint
